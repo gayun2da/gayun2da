@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/data.scientist/)](https://www.instagram.com/gynnmv/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](gayun2da@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gayun2da@gmail.com)](gayun2da@gmail.com)
 
 <!--
 **gayun2da/gayun2da** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
